@@ -8,3 +8,4 @@ var phy = +prompt("Enter your Physics num")
 var result = math + bio +phy
 
 alert("Your total number is " + result)
+
